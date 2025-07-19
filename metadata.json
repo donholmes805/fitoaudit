@@ -1,0 +1,6 @@
+{
+  "name": "Fito Audit V2",
+  "description": "An AI-powered smart contract auditing service using Fito AI to provide fast, accurate, and comprehensive security analysis for decentralized applications.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
